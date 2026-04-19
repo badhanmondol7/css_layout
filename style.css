@@ -1,0 +1,26 @@
+.header {
+    height: 100px;
+    background-color: aquamarine;
+}
+
+.container{
+    overflow: hidden
+    
+}
+.about{
+    height: 100px;
+    width: 70%;
+    background-color: blue;
+    float: left;
+}
+.contact{
+    height: 100px;
+    width: 25%;
+    background-color: green;
+    float: right
+}
+
+.footer{
+    height: 100px;
+    background-color: brown;
+}
